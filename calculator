@@ -2,3 +2,7 @@ Console.WriteLine("Momina Arif");
 int x =Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("24-ST-024");
 int x = Convert.ToInt32(Console.ReadLine());
+
+ *** Addition ***
+Console.WriteLine("Add two variables");
+int x =Convert.ToInt32(Console.ReadLine());
